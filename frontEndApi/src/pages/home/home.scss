@@ -1,0 +1,40 @@
+
+@import '../../mixins';
+.home{
+    @include main-style();
+
+    img {
+        width: 350px;
+        max-width: 95%;
+        height: auto;
+    }
+
+    Button {
+        background-color: black;
+        color: aliceblue;
+        margin-bottom: 3rem;
+        margin-top: 3rem;
+       
+        
+        
+    }
+
+    h1 {
+        color: rgb(214, 88, 15);
+        margin-top: 1rem;
+    }
+
+    h4 {
+        color: rgb(214, 88, 15);
+        
+    }
+
+
+
+    p {
+        width: 30%;
+        color: rgb(0, 0, 0);
+        margin: 2rem 0 3rem 0;
+        
+    }
+}

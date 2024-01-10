@@ -1,0 +1,18 @@
+@import '../../mixins';
+
+.add-usuario{
+    @include main-style();
+    gap: 2rem;
+
+
+    Button {
+        background-color: rgb(214, 88, 15);
+        margin: 2rem;
+        color: whitesmoke;
+    }
+    
+    h2 {
+        color: rgb(214, 88, 15);
+    }
+}
+
