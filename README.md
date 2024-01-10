@@ -7,9 +7,15 @@
 ![c-sharp_6132221](https://github.com/Neucielle/Api-Vale-das-Estrelas/assets/116307577/536e0d51-c5cc-46af-9992-0c8e188fff58)
 ![windows_13170416](https://github.com/Neucielle/Api-Vale-das-Estrelas/assets/116307577/4f15a03c-10f4-4221-9d87-66a4aa91349b)
 ![apple-touch-icon](https://github.com/Neucielle/Api-Vale-das-Estrelas/assets/116307577/f02c4f15-0eb4-47db-897a-7469e987a4ae)
+![5968364](https://github.com/Neucielle/Api-Vale-das-Estrelas/assets/116307577/02932487-409b-4c91-95a4-2205e453482e)
 
 # VÍDEO DE CRUD DOS USUÁRIOS...
 
 https://github.com/Neucielle/Api-Vale-das-Estrelas/assets/116307577/bc4c79c8-6182-412b-9470-5f04c2b249e8
+
+
+_______
+
+<h4>Projeto individual desenvolvido como parte da entrega final do bootcamp da Recode Pro, destaco as competências aprimoradas em C#, SQL Server, .NET, TypeScript, Sass e React. </h4>
 
 
